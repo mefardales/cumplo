@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+venv_fm
 build/
 develop-eggs/
 dist/
